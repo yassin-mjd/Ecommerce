@@ -1,0 +1,23 @@
+/* static/css/styles.css */
+.table th, .table td {
+    vertical-align: middle;
+}
+.table-hover tbody tr:hover {
+    background-color: #f8f9fa;
+}
+.card-text, .badge {
+    margin-bottom: 0.5rem;
+}
+.conversation-message {
+    max-width: 70%;
+    display: inline-block;
+}
+.modal-body form p {
+    margin-bottom: 1rem;
+}
+.modal-body textarea {
+    resize: vertical;
+}
+.btn-sm {
+    margin-right: 0.5rem;
+}
